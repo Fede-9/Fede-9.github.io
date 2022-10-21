@@ -1,0 +1,165 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Federico Cometto
+    tagline: Desarrollo de Software
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    citizenship: Córdoba, Argentina.
+    phone: 3385 - 462908
+    email: fedecometto98@gmail.com
+    linkedin: fedecometto
+    website:  
+    xing: 
+    github: Fede-9
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
+
+    languages:
+      title: Idiomas
+      info:
+        - idiom: Español 
+          level: Nativo
+
+        - idiom:  Inglés
+          level: Básico
+
+ 
+
+    interests:
+      title: Intereses
+      info:
+
+        - item: Leer
+          link:
+
+        - item: Fútbol
+          link:
+
+        - item: Música
+          link:
+
+        - item: Cocinar
+          link:
+
+career-profile:
+    title: Acerca de mí
+    summary: |
+      Soy estudiante de la carrera de Desarrollo de Software en el Instituto Tecnológico de Río Cuarto; me considero una persona responsable, organizada y proactiva, con buenas relaciones interpersonales.
+      Me parece fundamental estar a gusto con los trabajos que se realicen, de esta manera, la motivación a seguir creando y aprendiendo nunca finalizará.
+
+
+education:
+    title: Educación
+    info:
+      - degree: Desarrollo de Software
+        university: Instituto Tecnológico de Rio Cuarto
+        time: 2021 - Actualidad
+        # details: |
+          
+
+        
+      - degree: Plan Nacional
+        university: Argentina Programa
+        time: 2022 - Actualidad
+
+      - degree: Curso de Python
+        university: ECA Capacitaciones
+        time: 2021 
+
+      - degree: Curso de Clarion 10
+        university: Instructor Roland Gauna
+        time: 2021 
+
+experiences:
+    title: Perfil de la Carrera
+    info:
+      - role: 
+        time: 
+        company: 
+        details: |
+          ♦ Producir artefactos de software (programas, módulos, objetos), lo que comprende su diseño detallado, construcción - reutilizando elementos existentes o programándolos enteramente y verificación unitaria, así como su depuración, optimización y mantenimiento. 
+
+          ♦ Crear Apps multiplataforma (Desktop, Tablets, Smartphones y Web) utilizando las nuevas tecnologías (Lenguajes, Frameworks, Herramientas y Bases de Datos).
+
+          ♦ Brindar soporte y mantenimientos de hardware, software y redes.
+
+          ♦ Planificar y liderar proyectos informáticos.
+          
+        
+      
+
+projects:
+    title: Proyectos
+    intro: 
+    assignments:
+      - title: Tablero Kanban
+        link: "https://github.com/Fede-9/Proyecto_kanban"
+        tagline: 
+
+      - title: Administrador de contactos
+        link: "https://github.com/Fede-9/Contacts_App"
+        tagline: 
+
+      - title: Administrador de tareas
+        link: "https://github.com/Fede-9/List_Tasks"
+        tagline: 
+
+      - title: Rest Appi
+        link: "https://github.com/Fede-9/Rest_api"
+        tagline: 
+
+      - title: Heladería
+        link: "https://github.com/Fede-9/Proyecto_Prog_2"
+        tagline: 
+
+
+
+skills:
+    title: Habilidades
+
+    toolset:
+
+      - name: Windows & Linux
+        level: 90%
+
+      - name: Python & Flask
+        level: 70%
+
+      - name: Javascript 
+        level: 60%
+
+      - name: React js
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 70%
+
+      - name: Docker
+        level: 50%
+
+      - name: R
+        level: 45%
+
+      - name: SQL / MySQL
+        level: 75%
+
+      - name: Git
+        level: 80%
+
+
+
+
