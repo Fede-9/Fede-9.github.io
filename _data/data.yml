@@ -52,8 +52,6 @@ sidebar:
         - item: Música
           link:
 
-        - item: Cocinar
-          link:
 
 career-profile:
     title: Acerca de mí
@@ -74,7 +72,7 @@ education:
         
       - degree: Plan Nacional
         university: Argentina Programa
-        time: 2022 - Actualidad
+        time: 2022 
 
       - degree: Curso de Python
         university: ECA Capacitaciones
@@ -99,31 +97,33 @@ experiences:
 
           ♦ Planificar y liderar proyectos informáticos.
           
-        
-      
 
 projects:
     title: Proyectos
     intro: 
     assignments:
-      - title: Tablero Kanban
-        link: "https://github.com/Fede-9/Proyecto_kanban"
+      - title: Backend - Node js
+        link: "https://github.com/Fede-9/BackContacts"
         tagline: 
 
-      - title: Administrador de contactos
+      - title: Administrador de Contactos
         link: "https://github.com/Fede-9/Contacts_App"
         tagline: 
 
-      - title: Administrador de tareas
-        link: "https://github.com/Fede-9/List_Tasks"
+      - title: API Flask
+        link: "https://github.com/Fede-9/EFI-Python"
         tagline: 
 
-      - title: Rest Appi
+      - title: Django Rest
+        link: "https://github.com/Fede-9/Django-REST"
+        tagline: 
+
+      - title: Rest Api 
         link: "https://github.com/Fede-9/Rest_api"
         tagline: 
 
-      - title: Heladería
-        link: "https://github.com/Fede-9/Proyecto_Prog_2"
+      - title: Heladeria 
+        link: "https://github.com/Fede-9/Heladeria"
         tagline: 
 
 
