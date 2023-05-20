@@ -133,20 +133,14 @@ skills:
 
     toolset:
 
-      - name: Python & Flask & Django
+      - name: Python | Flask | Django
+        level: 80%
+
+      - name: Javascript | React JS | Node JS
         level: 70%
-
-      - name: Javascript 
-        level: 60%
-
-      - name: React js
-        level: 60%
 
       - name: HTML5 & CSS
         level: 70%
-
-      - name: Docker
-        level: 50%
 
       - name: Docker
         level: 55%
@@ -156,7 +150,5 @@ skills:
 
       - name: Git
         level: 80%
-
-
 
 
